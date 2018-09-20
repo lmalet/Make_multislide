@@ -1,0 +1,5 @@
+#!E:\Users\Nia and Ludo\Documents\Ludovic\Multilearning\Multislide\venv\Scripts\python.exe
+from cx_Freeze.setupwriter import main
+
+main()
+
