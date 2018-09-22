@@ -56,7 +56,7 @@ class MakeMulti:
                     output.write(out)
                 self.makeImage(output_filename_path)
             self.makeMulti(file_path)
-            # shutil.rmtree(file_path)
+            shutil.rmtree(file_path)
             print("\t Suppression des fichiers temporaires")
 
 
